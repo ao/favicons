@@ -1,0 +1,2 @@
+# favicons
+Favicons for all!
